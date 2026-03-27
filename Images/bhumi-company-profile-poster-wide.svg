@@ -1,0 +1,38 @@
+<svg width="1400" height="760" viewBox="0 0 1400 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="118" y1="70" x2="1258" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#860000"/>
+      <stop offset="0.5" stop-color="#B90B0B"/>
+      <stop offset="1" stop-color="#E32020"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="140" y1="86" x2="1164" y2="624" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF684B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7A0909" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="760" rx="38" fill="#141414"/>
+  <rect x="24" y="24" width="1352" height="712" rx="30" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1316" height="676" rx="24" stroke="#0D0D0D" stroke-width="14"/>
+
+  <path d="M32 564L660 104H1124L496 564H32Z" fill="#780404" fill-opacity="0.34"/>
+  <path d="M434 706L1240 156V562L734 706H434Z" fill="url(#overlay)"/>
+
+  <image href="logo.png" x="84" y="68" width="150" height="90" preserveAspectRatio="xMidYMid meet"/>
+
+  <text x="112" y="278" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="60" font-style="italic" font-weight="800">BHUMI INDUSTRIES.</text>
+  <text x="112" y="348" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="60" font-style="italic" font-weight="800">POWERING INDIA'S CLEAN</text>
+  <text x="112" y="418" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="60" font-style="italic" font-weight="800">FUTURE</text>
+
+  <text x="118" y="496" fill="#12161E" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Reliable. Sustainable. Yours.</text>
+
+  <rect x="760" y="510" width="220" height="8" rx="4" fill="#F2A92C"/>
+  <text x="760" y="566" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="46" font-style="italic" font-weight="800">BHUMI INDUSTRIES:</text>
+  <text x="760" y="620" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="46" font-style="italic" font-weight="800">DRIVING THE NATION</text>
+  <text x="760" y="674" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="46" font-style="italic" font-weight="800">FORWARD</text>
+
+  <image href="garbage.jpeg" x="78" y="528" width="338" height="130" preserveAspectRatio="xMidYMid slice"/>
+  <image href="erickshaw2.jpeg" x="286" y="548" width="146" height="110" preserveAspectRatio="xMidYMid slice"/>
+
+  <path d="M14 724L182 586L272 688L104 826L14 724Z" fill="white"/>
+</svg>

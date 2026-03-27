@@ -1,0 +1,19 @@
+<svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="562" cy="116" r="72" fill="#F2A92C" fill-opacity="0.18"/>
+  <path d="M118 356C118 339.431 131.431 326 148 326H532C548.569 326 562 339.431 562 356V360H118V356Z" fill="#26344A"/>
+  <path d="M166 280C166 218.144 216.144 168 278 168H390C426.733 168 461.123 183.457 482.647 210.692L556 304H166V280Z" fill="#FFFFFF"/>
+  <path d="M238 204H386C412.147 204 437.2 214.675 455.299 233.555L508 288H344L238 204Z" fill="#DFE7EE"/>
+  <rect x="194" y="304" width="328" height="40" rx="14" fill="#182231"/>
+  <circle cx="246" cy="360" r="52" fill="#101621"/>
+  <circle cx="246" cy="360" r="28" fill="#F2A92C"/>
+  <circle cx="470" cy="360" r="52" fill="#101621"/>
+  <circle cx="470" cy="360" r="28" fill="#F2A92C"/>
+  <text x="62" y="92" fill="#182231" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Passenger E-Rickshaw</text>
+  <defs>
+    <linearGradient id="bg" x1="86" y1="58" x2="614" y2="446" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAF4E8"/>
+      <stop offset="1" stop-color="#EEDFC7"/>
+    </linearGradient>
+  </defs>
+</svg>

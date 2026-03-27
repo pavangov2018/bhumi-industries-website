@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Grinding and cutting tools</title>
+  <desc id="desc">Illustration of shop-floor grinding and cutting tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101923"/>
+      <stop offset="100%" stop-color="#2a394e"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="36" fill="url(#bg)"/>
+  <circle cx="164" cy="218" r="72" fill="#d2dae4"/>
+  <circle cx="164" cy="218" r="34" fill="#2a394e"/>
+  <rect x="214" y="206" width="118" height="24" rx="12" fill="#f2a92c"/>
+  <rect x="332" y="190" width="48" height="56" rx="12" fill="#f7be58"/>
+  <rect x="416" y="136" width="118" height="164" rx="26" fill="#d2dae4"/>
+  <rect x="450" y="116" width="50" height="56" rx="14" fill="#f2a92c"/>
+  <rect x="76" y="308" width="488" height="20" rx="10" fill="#11161f"/>
+  <g stroke="#ffd166" stroke-width="6" stroke-linecap="round">
+    <path d="M412 118l20-28"/>
+    <path d="M536 118l20-28"/>
+    <path d="M474 104v-34"/>
+  </g>
+  <text x="72" y="60" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Cutting, Grinding &amp; Finishing</text>
+  <text x="72" y="388" fill="#d7e0eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">Sawing, trimming, grinding, and edge preparation support</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="582" cy="110" r="74" fill="#4CC9A6" fill-opacity="0.16"/>
+  <rect x="130" y="252" width="286" height="108" rx="22" fill="#1A2435"/>
+  <path d="M416 274C416 258.536 428.536 246 444 246H530C557.614 246 580 268.386 580 296V360H416V274Z" fill="#FFFFFF"/>
+  <rect x="164" y="216" width="222" height="38" rx="12" fill="#F2A92C"/>
+  <rect x="444" y="282" width="70" height="36" rx="10" fill="#DCE3EA"/>
+  <circle cx="218" cy="374" r="54" fill="#101621"/>
+  <circle cx="218" cy="374" r="29" fill="#F2A92C"/>
+  <circle cx="498" cy="374" r="54" fill="#101621"/>
+  <circle cx="498" cy="374" r="29" fill="#F2A92C"/>
+  <text x="62" y="92" fill="#182231" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Utility &amp; E-Garbage</text>
+  <defs>
+    <linearGradient id="bg" x1="78" y1="54" x2="632" y2="444" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F3EC"/>
+      <stop offset="1" stop-color="#DCE8E3"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">E-rickshaw BOP parts and chassis</title>
+  <desc id="desc">Illustration of an e-rickshaw chassis frame with body components.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#121b28"/>
+      <stop offset="100%" stop-color="#31455f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="36" fill="url(#bg)"/>
+  <rect x="126" y="206" width="308" height="36" rx="16" fill="#f2a92c"/>
+  <rect x="188" y="154" width="176" height="58" rx="18" fill="#dbe3eb"/>
+  <rect x="166" y="144" width="28" height="94" rx="12" fill="#f7be58"/>
+  <rect x="376" y="144" width="28" height="94" rx="12" fill="#f7be58"/>
+  <circle cx="208" cy="276" r="42" fill="#0f1724"/>
+  <circle cx="208" cy="276" r="18" fill="#dbe3eb"/>
+  <circle cx="402" cy="276" r="42" fill="#0f1724"/>
+  <circle cx="402" cy="276" r="18" fill="#dbe3eb"/>
+  <rect x="454" y="168" width="88" height="72" rx="18" fill="#dbe3eb"/>
+  <rect x="474" y="188" width="48" height="16" rx="8" fill="#f2a92c"/>
+  <text x="72" y="60" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">E-Rickshaw BOP Parts &amp; Bodies</text>
+  <text x="72" y="388" fill="#d7e0eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">Body structures, support assemblies, and chassis-related work</text>
+</svg>

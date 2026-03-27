@@ -1,0 +1,26 @@
+<svg width="960" height="760" viewBox="0 0 960 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="760" rx="36" fill="url(#bg)"/>
+  <circle cx="716" cy="164" r="116" fill="#F2A92C" fill-opacity="0.18"/>
+  <circle cx="164" cy="620" r="132" fill="#4CC9A6" fill-opacity="0.14"/>
+  <path d="M104 568C104 547.013 121.013 530 142 530H696C716.987 530 734 547.013 734 568V572H104V568Z" fill="#243248"/>
+  <path d="M184 468C184 385.621 250.621 319 333 319H530C578.726 319 624.336 342.362 653 381L739 499H184V468Z" fill="#F4F6F8"/>
+  <path d="M338 355H530C566.886 355 601.879 371.293 624.995 399.448L689 477H480L338 355Z" fill="#DCE3EA"/>
+  <path d="M248 424C248 405.222 263.222 390 282 390H388L483 477H248V424Z" fill="#FFFFFF"/>
+  <path d="M520 390H575C594.138 390 612.34 398.217 624.941 412.573L678 473H520V390Z" fill="#FFFFFF"/>
+  <rect x="209" y="499" width="514" height="63" rx="18" fill="#182231"/>
+  <rect x="452" y="463" width="110" height="18" rx="9" fill="#F2A92C"/>
+  <circle cx="290" cy="574" r="74" fill="#101621"/>
+  <circle cx="290" cy="574" r="40" fill="#F2A92C"/>
+  <circle cx="642" cy="574" r="74" fill="#101621"/>
+  <circle cx="642" cy="574" r="40" fill="#F2A92C"/>
+  <rect x="112" y="120" width="248" height="156" rx="24" fill="#121926" fill-opacity="0.86"/>
+  <text x="144" y="176" fill="#F2A92C" font-family="Segoe UI, Arial" font-size="22" font-weight="700">Bhumi Industries</text>
+  <text x="144" y="214" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="44" font-weight="700">Electric Mobility</text>
+  <text x="144" y="258" fill="#C6D0DB" font-family="Segoe UI, Arial" font-size="22">Manufacturing-ready vehicles</text>
+  <defs>
+    <linearGradient id="bg" x1="114" y1="80" x2="816" y2="664" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A2435"/>
+      <stop offset="1" stop-color="#27384E"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Automobile sheet metal components</title>
+  <desc id="desc">Illustration of formed vehicle panels and industrial parts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111b29"/>
+      <stop offset="100%" stop-color="#30455f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="36" fill="url(#bg)"/>
+  <path d="M110 230l80-82h188l84 82v54H110z" fill="#dbe3eb"/>
+  <path d="M166 230l50-44h148l56 44" fill="none" stroke="#f2a92c" stroke-width="16" stroke-linejoin="round"/>
+  <circle cx="192" cy="284" r="30" fill="#0f1724"/>
+  <circle cx="382" cy="284" r="30" fill="#0f1724"/>
+  <rect x="474" y="154" width="76" height="128" rx="18" fill="#f2a92c"/>
+  <rect x="492" y="178" width="40" height="18" rx="9" fill="#fff0d0"/>
+  <rect x="492" y="208" width="40" height="18" rx="9" fill="#fff0d0"/>
+  <text x="72" y="60" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Automobile Sheet-Metal Parts</text>
+  <text x="72" y="388" fill="#d7e0eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">Industrial panels, formed bodies, and repeat component work</text>
+</svg>

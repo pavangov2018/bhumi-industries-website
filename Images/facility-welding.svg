@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Welding and fabrication bay</title>
+  <desc id="desc">Illustration of a welding station with sparks and fabricated frame pieces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101a28"/>
+      <stop offset="100%" stop-color="#30455f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="36" fill="url(#bg)"/>
+  <rect x="36" y="298" width="568" height="58" rx="18" fill="#141b29"/>
+  <rect x="88" y="142" width="138" height="22" rx="8" fill="#8aa1ba"/>
+  <rect x="118" y="124" width="26" height="130" rx="10" fill="#c6d2de"/>
+  <rect x="180" y="124" width="26" height="130" rx="10" fill="#c6d2de"/>
+  <rect x="118" y="236" width="88" height="18" rx="8" fill="#c6d2de"/>
+  <path d="M314 108h88l36 150h-88z" fill="#f0a629"/>
+  <rect x="330" y="92" width="54" height="36" rx="12" fill="#1f2937"/>
+  <path d="M356 184l48 92" stroke="#d8e1ea" stroke-width="10" stroke-linecap="round"/>
+  <path d="M410 248c18-28 36-42 66-46" stroke="#f6bd54" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <g fill="#ffd166">
+    <circle cx="436" cy="196" r="6"/>
+    <circle cx="452" cy="210" r="5"/>
+    <circle cx="468" cy="188" r="5"/>
+    <circle cx="482" cy="204" r="4"/>
+    <circle cx="492" cy="182" r="4"/>
+  </g>
+  <rect x="466" y="144" width="104" height="72" rx="16" fill="#1f2937"/>
+  <rect x="484" y="162" width="68" height="14" rx="7" fill="#9ab0c8"/>
+  <rect x="484" y="184" width="54" height="14" rx="7" fill="#9ab0c8"/>
+  <text x="76" y="60" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Welding &amp; Fabrication Bay</text>
+  <text x="76" y="388" fill="#d7e0eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">MIG and arc welding for chassis and assemblies</text>
+</svg>

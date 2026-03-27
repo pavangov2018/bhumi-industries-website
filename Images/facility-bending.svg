@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sheet and pipe bending machine</title>
+  <desc id="desc">Illustration of a press brake and pipe bending setup.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#182232"/>
+      <stop offset="100%" stop-color="#334763"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="36" fill="url(#bg)"/>
+  <rect x="74" y="96" width="250" height="210" rx="24" fill="#f2a92c"/>
+  <rect x="104" y="132" width="190" height="36" rx="10" fill="#fff0d0"/>
+  <rect x="94" y="198" width="210" height="18" rx="8" fill="#11161f"/>
+  <path d="M132 216h132l-52 48h-80z" fill="#cdd7e2"/>
+  <rect x="374" y="134" width="148" height="148" rx="74" fill="#e8edf2"/>
+  <circle cx="448" cy="208" r="48" fill="#243248"/>
+  <path d="M448 160c40 0 72 22 72 48s-32 48-72 48" fill="none" stroke="#f2a92c" stroke-width="12" stroke-linecap="round"/>
+  <rect x="78" y="310" width="484" height="18" rx="9" fill="#11161f"/>
+  <text x="72" y="60" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">CNC Sheet &amp; Pipe Bending</text>
+  <text x="72" y="388" fill="#d7e0eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">Forming support for panels, profiles, and tube work</text>
+</svg>
