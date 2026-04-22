@@ -73,6 +73,10 @@ a {
   height: auto;
 }
 
+.nav-toggle {
+  display: none;
+}
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;
@@ -1269,7 +1273,7 @@ a {
 
   .nav-shell {
     min-height: 68px;
-    gap: 10px;
+    gap: 8px;
   }
 
   .brand span {
@@ -1281,12 +1285,14 @@ a {
   }
 
   .site-nav {
-    gap: 12px;
-    justify-content: flex-end;
+    gap: 10px;
+    justify-content: flex-start;
     flex-wrap: nowrap;
     overflow-x: auto;
     white-space: nowrap;
     scrollbar-width: none;
+    flex: 1 1 auto;
+    min-width: 0;
   }
 
   .site-nav::-webkit-scrollbar {
@@ -1294,7 +1300,7 @@ a {
   }
 
   .site-nav a {
-    font-size: 0.8rem;
+    font-size: 0.74rem;
     flex: 0 0 auto;
   }
 
